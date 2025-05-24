@@ -1,1 +1,1 @@
-# SoilVeda
+Developed a machine learning-based crop recommendation system using real-time soil data (N, P, K, pH, moisture, temperature, and rainfall). Applied PCA (Principal Component Analysis) for dimensionality reduction to enhance model performance. Implemented and compared Decision Tree and Random Forest algorithms, evaluating their performance with and without replacement to analyze the impact on prediction accuracy and robustness. The system provides reliable crop suggestions tailored to specific soil and environmental conditions.
